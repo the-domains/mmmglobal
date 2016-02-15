@@ -1,0 +1,28 @@
+name: mmmglobal
+favicon: null
+layout_spectrum: 0.643658209592104
+typography_spectrum: 0.3512341568712145
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.14690527319908142
+  lightness: 0.3351683057844639
+  saturation: 0.4068800148088485
+  rhythmicContrast: 0.9314797008410096
+purpose: []
